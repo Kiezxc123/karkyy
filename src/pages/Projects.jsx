@@ -24,7 +24,6 @@ const Projects = () => {
               title="Simple Project I Made"
               description="Saint Columban Collage."
               ghLink="https://github.com/Kiezxc123/mark"
-              demoLink="file:///C:/Users/Mark/Downloads/Main/Main/Webpage.html"
             />
           </Col>
         </Row>
